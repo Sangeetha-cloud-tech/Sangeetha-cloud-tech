@@ -3,7 +3,7 @@
 
 - 🔭 Currently improving in Java full stack development
 - 👯 I’m looking to collaborate on real world of software projects
-- 🤔 I’m looking for help  to learn springboot technology
+- 🤔 I’m looking for help  to get into tech world
 - 💬 Ask me about Java, Springboot.
 - 📫 How to reach me: gmail: sangeethamuralisuc@gmail.com
 
